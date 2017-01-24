@@ -6,6 +6,7 @@
   <meta name="description" content="The 2nd Player">
   <meta name="keywords" content="Gaming">
   <meta name="author" content="Jackson Tweet">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
   <!-- CSS/Scripts -->
   <?php include 'include/css-scripts.php';?>
